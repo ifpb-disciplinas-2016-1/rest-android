@@ -39,7 +39,7 @@ public class TwitterActivity extends Activity {
                 .append(host.getText().toString())
                 .append(":")
                 .append(port.getText().toString())
-                .append("/pos-rest-android/api/")
+                .append("/twitter/api/")
                 .toString();
 
         Retrofit retrofit = new Retrofit.Builder()

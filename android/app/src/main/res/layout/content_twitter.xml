@@ -81,7 +81,7 @@
         android:layout_alignRight="@+id/idade"
         android:layout_alignEnd="@+id/idade"
         android:text="10.0.2.2" />
-
+        <!--android:text="192.168.99.100" />-->
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -92,5 +92,6 @@
         android:layout_alignRight="@+id/editText"
         android:layout_alignEnd="@+id/editText"
         android:text="8088" />
+        <!--android:text="8080" />-->
 
 </RelativeLayout>
