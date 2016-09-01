@@ -1,0 +1,7 @@
+/rest/target/
+.DS_Store
+nb-configuration.xml
+/android/.gradle/
+/android/.nb-gradle/
+/android/.idea/
+/android/build/

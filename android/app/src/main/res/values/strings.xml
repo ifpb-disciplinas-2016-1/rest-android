@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pos-twitter</string>
+    <string name="action_settings">Configuração</string>
+    <string name="hello_world">Exemplo - Android</string>
+</resources>
